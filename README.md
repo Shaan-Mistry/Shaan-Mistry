@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shaan-Mistry
 - 👀 I’m interested in Blockchain, Data Science, ML
 - 🌱 I’m currently learning C, C++, Data Structures, Big O.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Anything!
 - 📫 How to reach me shaanmistry03@gmail.com
 
 <!---
