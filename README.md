@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Ray Tracing](https://github.com/Shaan-Mistry/Ray-Tracer)
 
-- 🌱 I’m currently learning **C++, SQL, Networking**
+- 🌱 I’m currently learning **C++, SQL, NLP**
 
 - 💬 Ask me about **C**
 
