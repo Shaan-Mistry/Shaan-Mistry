@@ -5,9 +5,7 @@
 - 🦎 Working at GEICO
 - 🌉 Based in the Bay Area
 - 🌱 I’m currently learning about cloud technologies
-
-- 💬 Ask me about
-
+- 💬 Ask me about anything!
 - 📫 How to reach me **shaanmistry03@gmail.com**
 
 
