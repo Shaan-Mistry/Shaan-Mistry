@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shaan</h1>
-<h3 align="center">Computer Science Major at UC Santa Cruz</h3>
+<h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on [Ray Tracing](https://github.com/Shaan-Mistry/Ray-Tracer)
+- 🐌 UC Santa Cruz Alumni
+- 🦎 Working at GEICO
+- 🌉 Based in the Bay Area
+- 🌱 I’m currently learning about cloud technologies
 
-- 🌱 I’m currently learning **C++, SQL, NLP**
-
-- 💬 Ask me about **C**
+- 💬 Ask me about
 
 - 📫 How to reach me **shaanmistry03@gmail.com**
 
