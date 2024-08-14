@@ -4,7 +4,7 @@
 - 🐌 UC Santa Cruz Alumni
 - 🦎 Working at GEICO
 - 🌉 Based in the Bay Area
-- 🌱 I’m currently learning about cloud technologies
+- 🌱 I’m currently learning about cloud technologies and observability
 - 💬 Ask me about anything!
 - 📫 How to reach me **shaanmistry03@gmail.com**
 
